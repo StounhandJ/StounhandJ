@@ -1,7 +1,5 @@
 ### Hi there 👋, Im Roman
-I have been actively studying programming since the beginning of 2020. The main direction of development of Back-End.
-
-Skills: PHP / C# / Go / Python
+Skills: Go / PHP / Python / C# 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/romanm4)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/composer.svg' alt='packagist' height='40'>](https://packagist.org/packages/stounhandj/)
